@@ -2,7 +2,7 @@
 
 ## Setup
 1. npm install
-2. add .env file
+2. add or update .env file
 3. run: npx nodemon server.js
 
 ## APIs
